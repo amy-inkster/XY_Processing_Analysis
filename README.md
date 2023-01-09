@@ -12,3 +12,5 @@ Additional annotation files for the Illumina DNAme arrays indexing which CpG pro
   git450loc <- https://github.com/amy-inkster/XY_Processing_Analysis/blob/main/Annotation_XY_450.csv
   anno450 <- read.csv(git450loc)
   ```
+  
+  Please direct any feedback or questions to Amy Inkster at ainkster(at)bcchr.ca 
