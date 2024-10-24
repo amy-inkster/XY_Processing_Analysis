@@ -13,4 +13,4 @@ Additional annotation files for the Illumina DNAme arrays indexing which CpG pro
   anno450 <- read.csv(git450loc)
   ```
   
-  Please direct any feedback or questions to Amy Inkster at ainkster@bcchr.ca 
+  Please direct any feedback or questions to Amy Inkster at amymichelleinkster (at) gmail.com
